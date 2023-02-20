@@ -19,7 +19,7 @@
    *Use **ResNet9 128 batch** ->* accuracy ≈ **0.9392**  
    ![ResNet9_128_batch_acc_0.9392](https://github.com/tonyhsu32/Cifar10_FMnist_CNN_model_test/blob/main/ResNet9_128_batch_acc_0.9392_fig.png)
    
-2. **Fashion MNist:**  
+2. **Fashion MNist test:**  
    *Use **modified Vgg16** ->* accuarcy is ≈ **0.9404**  
    *Use **Colab GPU Telsa T4 16GB***
    * fMnist_classifier.ipynb  
